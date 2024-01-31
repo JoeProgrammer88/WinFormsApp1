@@ -9,7 +9,7 @@ namespace WinFormsApp1
 
         private void TestBtn_Click(object sender, EventArgs e)
         {
-            MessageBo.Show("Test");
+            MessageBox.Show("Test");
         }
     }
 }
